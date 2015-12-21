@@ -1,0 +1,7 @@
+com.socks.meituanmultidex.activity.BaseActivity
+com.socks.meituanmultidex.activity.MainActivity
+com.socks.meituanmultidex.activity.WaitingActivity
+com.socks.meituanmultidex.MeituanApplication
+com.socks.meituanmultidex.MeituanInstrumentation
+com.socks.meituanmultidex.Hack.AndroidHack
+com.socks.meituanmultidex.Hack.SysHacks
